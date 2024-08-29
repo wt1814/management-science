@@ -1,0 +1,167 @@
+<mxfile host="Electron" modified="2024-03-11T11:00:09.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="CEIpsfAFWdz02rhXJe2q" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="U4vyhX9cu2iQkvQywZG9">
+    <mxGraphModel dx="954" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-1" target="9quOpb-FRvCH7Em_UoNI-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-1" target="9quOpb-FRvCH7Em_UoNI-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-1" target="9quOpb-FRvCH7Em_UoNI-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-1" value="2.专业化与多元化战略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="238" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-2" target="9quOpb-FRvCH7Em_UoNI-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-2" target="9quOpb-FRvCH7Em_UoNI-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-2" target="9quOpb-FRvCH7Em_UoNI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XqrlLm2lwAYJP0Ht1HkU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-2" target="XqrlLm2lwAYJP0Ht1HkU-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-2" target="4S9M2c22PGqfhvLnQaTi-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-2" value="公司层战略及选择" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-4" target="9quOpb-FRvCH7Em_UoNI-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-4" target="9quOpb-FRvCH7Em_UoNI-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-4" target="4S9M2c22PGqfhvLnQaTi-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-4" value="3.一体化战略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-5" value="4.联盟、并购与重组战略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="238" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-10" target="4S9M2c22PGqfhvLnQaTi-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-10" value="3.多元化战略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-11" target="4S9M2c22PGqfhvLnQaTi-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-11" target="4S9M2c22PGqfhvLnQaTi-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-11" target="4S9M2c22PGqfhvLnQaTi-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-11" value="1.波士顿矩阵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9quOpb-FRvCH7Em_UoNI-12" target="4S9M2c22PGqfhvLnQaTi-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="702" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-12" value="2.专业化战略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XqrlLm2lwAYJP0Ht1HkU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9quOpb-FRvCH7Em_UoNI-15" target="XqrlLm2lwAYJP0Ht1HkU-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9quOpb-FRvCH7Em_UoNI-15" target="4S9M2c22PGqfhvLnQaTi-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-15" value="2.纵向一体化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="438.5" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEHvH5mP_jir9nVrtSuv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9quOpb-FRvCH7Em_UoNI-16" target="4S9M2c22PGqfhvLnQaTi-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9quOpb-FRvCH7Em_UoNI-16" value="3.横向一体化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XqrlLm2lwAYJP0Ht1HkU-1" value="5.国际化战略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEHvH5mP_jir9nVrtSuv-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqrlLm2lwAYJP0Ht1HkU-9" target="4S9M2c22PGqfhvLnQaTi-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqrlLm2lwAYJP0Ht1HkU-9" value="1.纵向一体化的定义和分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640.5" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4S9M2c22PGqfhvLnQaTi-1" target="4S9M2c22PGqfhvLnQaTi-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-1" value="1.公司层发展战略的选择" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="238" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-2" value="&lt;div&gt;1.产业维度，专业化战略和多元化战略&lt;/div&gt;&lt;div&gt;2.空间维度，国内战略和国际化战略&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-5" value="1.专业化战略的定义&lt;br&gt;2.专业化战略的分类&lt;br&gt;3.选择专业化战略的条件&lt;br&gt;4.专业化战略的优势和劣势" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="639" y="400" width="148" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4S9M2c22PGqfhvLnQaTi-17" target="4S9M2c22PGqfhvLnQaTi-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-17" value="1.基本原理与图示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640.5" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-19" value="2.矩阵区域分析与战略选择" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640.5" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4S9M2c22PGqfhvLnQaTi-20" target="4S9M2c22PGqfhvLnQaTi-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-20" value="3.波士顿矩阵的运用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640.5" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-23" value="&lt;div&gt;1.简介&lt;/div&gt;&lt;div&gt;2.前提&lt;/div&gt;&lt;div&gt;3.矩阵构图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840.5" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-27" value="&lt;div&gt;1.分析步骤&lt;/div&gt;&lt;div&gt;2.局限性&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840.5" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-29" value="1.多元化战略的定义&lt;br&gt;2.多元化战略的分类&lt;br&gt;3.选择多元化战略的条件&lt;br&gt;4.多元化战略的优势和劣势" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="637.5" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4S9M2c22PGqfhvLnQaTi-37" target="4S9M2c22PGqfhvLnQaTi-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-37" value="1.一体化战略概述" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="439.5" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-39" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.理论依据&lt;/div&gt;&lt;div&gt;3.类型&lt;/div&gt;&lt;div&gt;4.模型图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="639.5" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-41" value="2.纵向一体化战略的优势及实现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640.5" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-43" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.分类&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840.5" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4S9M2c22PGqfhvLnQaTi-45" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.适用情况&lt;/div&gt;&lt;div&gt;3.优势&lt;/div&gt;&lt;div&gt;4.问题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640.5" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

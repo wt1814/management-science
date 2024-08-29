@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2024-07-03T10:19:55.950Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="BGpCKToWN9pFxuJ4wmsO" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="LbLHYrfMs61iux43dW0h">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="0fAdjInTH9JtAqdJ_PSC-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="0fAdjInTH9JtAqdJ_PSC-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="0fAdjInTH9JtAqdJ_PSC-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="njytcRA9__mMUklmKUCp-1" value="成本理论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="37" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0fAdjInTH9JtAqdJ_PSC-1" target="0fAdjInTH9JtAqdJ_PSC-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-1" value="1.成本与利润" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0fAdjInTH9JtAqdJ_PSC-3" target="0fAdjInTH9JtAqdJ_PSC-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0fAdjInTH9JtAqdJ_PSC-3" target="0fAdjInTH9JtAqdJ_PSC-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-3" value="3.长期成本与规模经济" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0fAdjInTH9JtAqdJ_PSC-4" target="0fAdjInTH9JtAqdJ_PSC-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-4" value="2.短期成本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-7" value="&lt;div&gt;1.会计成本、机会成本与经济成本&lt;/div&gt;&lt;div&gt;2.会计利润、经济利润和正常利润&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="437" y="40" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-9" value="&lt;div&gt;1.成本函数&lt;/div&gt;&lt;div&gt;2.短期成本函数&lt;/div&gt;&lt;div&gt;3.基本成本指标（短期成本函数的变量）&lt;/div&gt;&lt;div&gt;4.短期成本曲线&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="437" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0fAdjInTH9JtAqdJ_PSC-11" target="0fAdjInTH9JtAqdJ_PSC-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-11" value="1.长期成本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="437" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0fAdjInTH9JtAqdJ_PSC-13" target="0fAdjInTH9JtAqdJ_PSC-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-13" value="2.规模经济" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="437" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-15" value="&lt;div&gt;1.长期成本函数&lt;/div&gt;&lt;div&gt;2.长期总成本曲线的形状&lt;/div&gt;&lt;div&gt;3.长期平均成本和长期边际成本函数&lt;/div&gt;&lt;div&gt;4.长期平均成本（TAC）与&lt;br&gt;短期平均成本（STC）的关系&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="627" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fAdjInTH9JtAqdJ_PSC-17" value="&lt;div&gt;1.规模经济性&lt;/div&gt;&lt;div&gt;2.规模经济的原因&lt;/div&gt;&lt;div&gt;3.规模不经济的来源&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="627" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

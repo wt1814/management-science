@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2024-03-24T06:07:48.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="zoJNzCIoeSTfUhmarC_n" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="Pz8kk_Yw6yperJGW6MGE">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vRNrK5vmeYw4ECJwAKCH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vRNrK5vmeYw4ECJwAKCH-5" target="vRNrK5vmeYw4ECJwAKCH-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRNrK5vmeYw4ECJwAKCH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vRNrK5vmeYw4ECJwAKCH-5" target="vRNrK5vmeYw4ECJwAKCH-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIFBHnfa5GQ4q_n51CbS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vRNrK5vmeYw4ECJwAKCH-5" target="eIFBHnfa5GQ4q_n51CbS-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRNrK5vmeYw4ECJwAKCH-5" value="组织竞争机会与能力的识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQiqA1uH13GbYHlNosBk-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vRNrK5vmeYw4ECJwAKCH-6" target="hQiqA1uH13GbYHlNosBk-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRNrK5vmeYw4ECJwAKCH-6" value="1.SWOT分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQiqA1uH13GbYHlNosBk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vRNrK5vmeYw4ECJwAKCH-7" target="hQiqA1uH13GbYHlNosBk-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRNrK5vmeYw4ECJwAKCH-7" value="2.【核心能力】的确定方法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQiqA1uH13GbYHlNosBk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vRNrK5vmeYw4ECJwAKCH-8" target="hQiqA1uH13GbYHlNosBk-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRNrK5vmeYw4ECJwAKCH-8" value="2.组织的竞争地位确定方法(竞争态势矩阵)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQiqA1uH13GbYHlNosBk-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vRNrK5vmeYw4ECJwAKCH-9" target="hQiqA1uH13GbYHlNosBk-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRNrK5vmeYw4ECJwAKCH-9" value="1.组织的竞争优势确定方法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQiqA1uH13GbYHlNosBk-1" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.决策准则&lt;/div&gt;&lt;div&gt;3.内容&lt;/div&gt;&lt;div&gt;4.SWOT分析矩阵，战略组合&lt;/div&gt;&lt;div&gt;5.实际运用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQiqA1uH13GbYHlNosBk-3" value="&lt;div&gt;1.企业资源、能力及竞争优势之间的关系&lt;/div&gt;&lt;div&gt;2.企业资源强势与弱势分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQiqA1uH13GbYHlNosBk-5" value="&lt;div&gt;1.概念&lt;/div&gt;&lt;div&gt;2.步骤&lt;/div&gt;&lt;div&gt;3.意义与局限&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hQiqA1uH13GbYHlNosBk-7" value="&lt;div&gt;1.概念&lt;/div&gt;&lt;div&gt;2.企业资源和能力的关系&lt;/div&gt;&lt;div&gt;3.与核心产品及最终产品的关系&lt;/div&gt;&lt;div&gt;4.特点&lt;/div&gt;&lt;div&gt;5.识别&lt;/div&gt;&lt;div&gt;6.培育&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIFBHnfa5GQ4q_n51CbS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eIFBHnfa5GQ4q_n51CbS-1" target="vRNrK5vmeYw4ECJwAKCH-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIFBHnfa5GQ4q_n51CbS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eIFBHnfa5GQ4q_n51CbS-1" target="vRNrK5vmeYw4ECJwAKCH-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIFBHnfa5GQ4q_n51CbS-1" value="3.竞争机会" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

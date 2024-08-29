@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2024-07-04T03:55:11.549Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="J4Ms4QHCVLqhafX54CAH" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="LbLHYrfMs61iux43dW0h">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="3fWKfmWLunlaH_ekt7Li-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="3fWKfmWLunlaH_ekt7Li-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="3fWKfmWLunlaH_ekt7Li-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="njytcRA9__mMUklmKUCp-1" value="产品和货币市场的均衡" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3fWKfmWLunlaH_ekt7Li-1" target="3fWKfmWLunlaH_ekt7Li-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-1" value="2.LM曲线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3fWKfmWLunlaH_ekt7Li-3" target="3fWKfmWLunlaH_ekt7Li-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-3" value="1.IS曲线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3fWKfmWLunlaH_ekt7Li-4" target="3fWKfmWLunlaH_ekt7Li-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3fWKfmWLunlaH_ekt7Li-4" target="3fWKfmWLunlaH_ekt7Li-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-4" value="3.IS-LM分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-9" value="1.IS曲线及其推导&lt;br&gt;2.IS曲线的斜率&lt;br&gt;3.IS曲线的移动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-12" value="1.LM曲线及其推导&lt;br&gt;2.LM曲线的斜率&lt;br&gt;3.LM曲线的移动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-19" value="1.两个市场同时均衡的利率和收入&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWKfmWLunlaH_ekt7Li-21" value="2.均衡收入和利率的变动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

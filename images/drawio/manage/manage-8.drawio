@@ -1,0 +1,139 @@
+<mxfile host="Electron" modified="2024-04-22T15:40:24.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="F7GOJ0NR6vgt2FE7hvkh" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="3AgxsNfVHwF317AVuSRG">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-1" target="5-1KiGUEnsiXZ_GlfHG4-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-1" target="5-1KiGUEnsiXZ_GlfHG4-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-1" target="5-1KiGUEnsiXZ_GlfHG4-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4EzhUhhv7pTJVoEXQYUI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-1" target="5-1KiGUEnsiXZ_GlfHG4-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-1" value="组织技术、流程再造与组织创新" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mDeLN7O-6V8nJ6-Jvpf--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-2" target="mDeLN7O-6V8nJ6-Jvpf--8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDeLN7O-6V8nJ6-Jvpf--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-2" target="mDeLN7O-6V8nJ6-Jvpf--9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDeLN7O-6V8nJ6-Jvpf--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-2" target="mDeLN7O-6V8nJ6-Jvpf--7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-2" value="3.组织【演进与创新】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-4" target="5-1KiGUEnsiXZ_GlfHG4-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-4" target="5-1KiGUEnsiXZ_GlfHG4-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-4" value="1.制造、服务与信息网络技术" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-5" target="5-1KiGUEnsiXZ_GlfHG4-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-5" value="2.企业【流程和组织再造】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mDeLN7O-6V8nJ6-Jvpf--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-6" target="mDeLN7O-6V8nJ6-Jvpf--15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-6" value="4.组织【学习】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-10" target="5-1KiGUEnsiXZ_GlfHG4-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-10" target="5-1KiGUEnsiXZ_GlfHG4-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-10" value="1.组织层的技术" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-12" target="5-1KiGUEnsiXZ_GlfHG4-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-12" target="5-1KiGUEnsiXZ_GlfHG4-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-12" target="5-1KiGUEnsiXZ_GlfHG4-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-12" value="2.信息网络技术" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-14" target="5-1KiGUEnsiXZ_GlfHG4-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="827" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-14" value="1.制造技术" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5-1KiGUEnsiXZ_GlfHG4-16" target="5-1KiGUEnsiXZ_GlfHG4-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="827" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-16" value="2.服务技术" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-18" value="&lt;div&gt;1.传统的制造技术&lt;/div&gt;&lt;div&gt;2.先进制造技术(AMT)&lt;/div&gt;&lt;div&gt;3.技术对工作技能的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-20" value="&lt;div&gt;1.服务技术与制造技术的差异&lt;/div&gt;&lt;div&gt;2.服务技术的特性&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-22" value="1.组织信息技术的沿革" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-24" value="2.网络环境的信息技术" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-25" value="3.信息网络技术在组织中的典型应用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-1KiGUEnsiXZ_GlfHG4-30" value="1.再造的概念&lt;br&gt;2.再造的程序&lt;br&gt;3.再造成功的要点分析&lt;br&gt;4.组织结构再造" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kVaI4QZ3VxQ5UDvsZpcV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mDeLN7O-6V8nJ6-Jvpf--7" target="kVaI4QZ3VxQ5UDvsZpcV-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDeLN7O-6V8nJ6-Jvpf--7" value="3.经济组织创新" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mDeLN7O-6V8nJ6-Jvpf--8" value="2.经济组织的演进理论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mDeLN7O-6V8nJ6-Jvpf--9" value="1.组织生态或种群学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mDeLN7O-6V8nJ6-Jvpf--15" value="&lt;div&gt;&lt;div&gt;1.组织学习与环境变化&lt;/div&gt;&lt;div&gt;2.组织学习与组织记忆&lt;/div&gt;&lt;div&gt;3.组织学习过程&lt;/div&gt;&lt;div&gt;4.组织学习形态&lt;/div&gt;&lt;div&gt;5.组织学习的成效&lt;/div&gt;&lt;div&gt;6.网络环境下组织学习的特征&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kVaI4QZ3VxQ5UDvsZpcV-1" value="&lt;div&gt;1.创新概念的发展&lt;/div&gt;&lt;div&gt;2.网络环境下的组织创新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="720" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,277 @@
+<mxfile host="Electron" modified="2024-04-22T14:54:30.008Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="dE4G8aLy50d4fR0SU-NQ" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="JSEcgm0eD28KysyjOBzH">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-1" target="j2N2jXN-DaJN0KaIv5jV-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-1" target="j2N2jXN-DaJN0KaIv5jV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-1" target="j2N2jXN-DaJN0KaIv5jV-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-1" value="经济组织的激励与协调及行为管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-2" target="j2N2jXN-DaJN0KaIv5jV-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-2" target="j2N2jXN-DaJN0KaIv5jV-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-2" target="j2N2jXN-DaJN0KaIv5jV-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-2" value="3.组织激励与行为管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-3" target="j2N2jXN-DaJN0KaIv5jV-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-3" target="j2N2jXN-DaJN0KaIv5jV-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-3" target="j2N2jXN-DaJN0KaIv5jV-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-3" value="2.经济组织的共性问题、协调及交易成本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-4" target="j2N2jXN-DaJN0KaIv5jV-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-4" target="j2N2jXN-DaJN0KaIv5jV-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-4" target="j2N2jXN-DaJN0KaIv5jV-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-4" value="1.现代企业的治理与管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-11" target="j2N2jXN-DaJN0KaIv5jV-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-11" target="n-bE3N2WUdQPgE2fsLaj-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-11" value="&lt;div&gt;1.体现激励、协调、创新的企业组织治理与管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-14" value="3.公司治理及监管中的关键问题分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-15" target="n-bE3N2WUdQPgE2fsLaj-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-15" target="n-bE3N2WUdQPgE2fsLaj-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-15" value="2.不同公司治理模式的比较及其分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-19" value="&lt;div&gt;1.管理的本质：激励、协调和创新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-21" target="j2N2jXN-DaJN0KaIv5jV-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-21" target="n-bE3N2WUdQPgE2fsLaj-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-21" target="n-bE3N2WUdQPgE2fsLaj-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-21" value="1.现代企业组织的两类基本问题及其对结构的影响" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-23" target="n-bE3N2WUdQPgE2fsLaj-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-23" target="n-bE3N2WUdQPgE2fsLaj-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-23" target="n-bE3N2WUdQPgE2fsLaj-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-23" value="2.科斯定理与交易成本理论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-24" target="j2N2jXN-DaJN0KaIv5jV-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-24" target="n-bE3N2WUdQPgE2fsLaj-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-24" target="n-bE3N2WUdQPgE2fsLaj-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-24" value="3.经济组织的协调机制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-27" target="n-bE3N2WUdQPgE2fsLaj-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-27" value="1.现代企业组织的有关概念和定义" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-29" target="n-bE3N2WUdQPgE2fsLaj-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-29" value="1.价格与协调" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-31" target="n-bE3N2WUdQPgE2fsLaj-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-31" target="n-bE3N2WUdQPgE2fsLaj-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-31" value="1.非对称信息与代理理论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-33" target="j2N2jXN-DaJN0KaIv5jV-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-33" target="n-bE3N2WUdQPgE2fsLaj-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-33" target="n-bE3N2WUdQPgE2fsLaj-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-33" value="2.有效的组织激励" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-34" value="3.经济组织中的行为管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j2N2jXN-DaJN0KaIv5jV-37" target="n-bE3N2WUdQPgE2fsLaj-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2N2jXN-DaJN0KaIv5jV-37" value="1.应对道德风险的激励契约" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.管理过程中的治理与管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-3" value="1.内部公司治理(单层制与双层制)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-5" value="2.外部公司治理(公司控制权市场)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-7" target="n-bE3N2WUdQPgE2fsLaj-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-7" value="3.多种因素对现代企业组织结构的影响" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-8" target="n-bE3N2WUdQPgE2fsLaj-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-8" value="2.现代企业组织的共性问题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-15" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-17" target="n-bE3N2WUdQPgE2fsLaj-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-17" value="1.经济系统与经济组织" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-19" target="n-bE3N2WUdQPgE2fsLaj-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-19" value="2.组织分析的工具：交易与交易成本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-20" target="n-bE3N2WUdQPgE2fsLaj-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-20" value="3.组织协调与科斯定理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-25" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-27" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-29" target="n-bE3N2WUdQPgE2fsLaj-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-29" value="2.设计属性与组织协调" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-30" target="n-bE3N2WUdQPgE2fsLaj-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-30" value="3.管理在协调中的作用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-33" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-35" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-37" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-39" target="n-bE3N2WUdQPgE2fsLaj-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-39" value="1.非对称信息的分类" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-41" target="n-bE3N2WUdQPgE2fsLaj-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-41" value="2.隐匿信息与行动的两类问题" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-43" target="n-bE3N2WUdQPgE2fsLaj-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-43" value="3.资源配置与效率" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n-bE3N2WUdQPgE2fsLaj-44" target="n-bE3N2WUdQPgE2fsLaj-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-44" value="2.风险共担的激励报酬原理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-47" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-49" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-51" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-53" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n-bE3N2WUdQPgE2fsLaj-55" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

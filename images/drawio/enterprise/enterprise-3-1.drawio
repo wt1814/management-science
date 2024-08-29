@@ -1,0 +1,124 @@
+<mxfile host="Electron" modified="2024-03-24T05:28:51.382Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="l2qWOj1oIwtkuJ2RUlSF" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="x54ikiX-NdyQtxU3tLMn">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1nQLQd7jNXIJZArxXkDY-4" target="1nQLQd7jNXIJZArxXkDY-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1nQLQd7jNXIJZArxXkDY-4" target="1nQLQd7jNXIJZArxXkDY-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1nQLQd7jNXIJZArxXkDY-4" target="1nQLQd7jNXIJZArxXkDY-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-4" value="组织的外部环境分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TrAmA34oHlxWlckKZhnS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1nQLQd7jNXIJZArxXkDY-5" target="TrAmA34oHlxWlckKZhnS-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-5" value="3.外部因素评价矩阵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1nQLQd7jNXIJZArxXkDY-6" target="1nQLQd7jNXIJZArxXkDY-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1nQLQd7jNXIJZArxXkDY-6" target="1nQLQd7jNXIJZArxXkDY-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1nQLQd7jNXIJZArxXkDY-6" target="1nQLQd7jNXIJZArxXkDY-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1nQLQd7jNXIJZArxXkDY-6" target="1nQLQd7jNXIJZArxXkDY-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-6" value="2.组织的行业结构分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1nQLQd7jNXIJZArxXkDY-8" target="1nQLQd7jNXIJZArxXkDY-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1nQLQd7jNXIJZArxXkDY-8" target="1nQLQd7jNXIJZArxXkDY-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1nQLQd7jNXIJZArxXkDY-8" target="1nQLQd7jNXIJZArxXkDY-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1nQLQd7jNXIJZArxXkDY-8" target="1nQLQd7jNXIJZArxXkDY-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-8" value="1.组织的宏观环境分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1nQLQd7jNXIJZArxXkDY-9" target="1nQLQd7jNXIJZArxXkDY-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-9" value="1.政治环境分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1nQLQd7jNXIJZArxXkDY-9" target="1nQLQd7jNXIJZArxXkDY-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1nQLQd7jNXIJZArxXkDY-11" target="1nQLQd7jNXIJZArxXkDY-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-11" value="4.社会文化环境分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1nQLQd7jNXIJZArxXkDY-12" target="1nQLQd7jNXIJZArxXkDY-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-12" value="3.技术环境分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1nQLQd7jNXIJZArxXkDY-13" target="1nQLQd7jNXIJZArxXkDY-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-13" value="2.经济环境分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-19" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.对企业的影响&lt;/div&gt;&lt;div&gt;3.对企业影响的特点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-21" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.4个构成要素&lt;/div&gt;&lt;div&gt;3.对企业的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-23" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.4个构成要素&lt;/div&gt;&lt;div&gt;3.对企业的影响&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-25" value="&lt;div&gt;1.社会环境&lt;/div&gt;&lt;div&gt;2.文化环境&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-27" value="1.行业竞争的五种力量模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1nQLQd7jNXIJZArxXkDY-29" target="1nQLQd7jNXIJZArxXkDY-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-29" value="2.竞争对手的选择与分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-30" value="3.行业吸引力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TrAmA34oHlxWlckKZhnS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1nQLQd7jNXIJZArxXkDY-31" target="TrAmA34oHlxWlckKZhnS-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-31" value="4.相关市场分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nQLQd7jNXIJZArxXkDY-35" value="&lt;div&gt;1.框架&lt;/div&gt;&lt;div&gt;2.目的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TrAmA34oHlxWlckKZhnS-1" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.步骤&lt;/div&gt;&lt;div&gt;3.结果说明&lt;/div&gt;&lt;div&gt;4.注意事项&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TrAmA34oHlxWlckKZhnS-3" value="&lt;div&gt;1.行业市场集中度&lt;/div&gt;&lt;div&gt;&#x9;1.概念&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&#x9;&lt;/span&gt;2.衡量指标&lt;/div&gt;&lt;div&gt;2.行业的市场细分&lt;/div&gt;&lt;div&gt;3.战略组分析&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&#x9;&lt;/span&gt;1.含义&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&#x9;&lt;/span&gt;2.内容&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&#x9;&lt;/span&gt;3.局限&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="640" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

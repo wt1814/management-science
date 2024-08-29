@@ -1,0 +1,85 @@
+<mxfile host="Electron" modified="2024-03-24T05:27:33.768Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="RnlE1ePvZxSg1dcBtvNd" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="Jm3OxKgqO-zGm_8Qrxm9">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-1" target="lf_5Gs5KVryrKmMmPfbZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-1" target="lf_5Gs5KVryrKmMmPfbZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-1" target="lf_5Gs5KVryrKmMmPfbZ-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-1" value="组织的愿景、使命和战略目标" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-2" target="lf_5Gs5KVryrKmMmPfbZ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-2" value="1.组织的愿景" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-4" target="lf_5Gs5KVryrKmMmPfbZ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-4" target="lf_5Gs5KVryrKmMmPfbZ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-4" target="lf_5Gs5KVryrKmMmPfbZ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-4" value="2.企业的使命" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-5" value="&lt;div&gt;1. 企业愿景的概念&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;2. 企业愿景的表述构成要素&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;3. 企业愿景的作用&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-8" target="lf_5Gs5KVryrKmMmPfbZ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-8" value="2.使命的界定" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJtOD2gpHJsbI1HMp-zf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-10" target="nJtOD2gpHJsbI1HMp-zf-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-10" value="1.使命的概念" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-11" target="lf_5Gs5KVryrKmMmPfbZ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-11" value="3.使命表达" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-14" value="&lt;div&gt;1.确定企业的经营领域&lt;/div&gt;&lt;div&gt;2.注重企业所承担的社会责任&lt;/div&gt;&lt;div&gt;3.建设优秀企业文化，促进社会文化的进步&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-16" value="&lt;div&gt;1.表达企业使命时应遵循的基本原则&lt;/div&gt;&lt;div&gt;2.国内外一些著名企业的企业使命表达&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-18" target="lf_5Gs5KVryrKmMmPfbZ-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lf_5Gs5KVryrKmMmPfbZ-18" target="lf_5Gs5KVryrKmMmPfbZ-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-18" value="3.组织的战略目标" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-21" value="1.概念、特征和应达到的标准" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lf_5Gs5KVryrKmMmPfbZ-22" value="2.战略目标的制订" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJtOD2gpHJsbI1HMp-zf-1" value="&lt;div&gt;1.使命的概念（提出者、使命陈述、概念）&lt;/div&gt;&lt;div&gt;2.企业使命与愿景的区别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

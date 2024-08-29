@@ -1,0 +1,79 @@
+<mxfile host="Electron" modified="2024-03-22T05:29:44.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="vt53LPqywzibjIZlpgr5" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="9kCc-7bjlK6RIUDF9Iim">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HJeP4A9sXHe4z1AfP_un-1" target="2xcpov6YE8i4OsEmI4tm-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HJeP4A9sXHe4z1AfP_un-1" target="2xcpov6YE8i4OsEmI4tm-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJeP4A9sXHe4z1AfP_un-1" value="随机变量以及抽样分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-1" value="1.概率分布/随机变量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2xcpov6YE8i4OsEmI4tm-3" target="2xcpov6YE8i4OsEmI4tm-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOncRo1CujY6hUR6JEvI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2xcpov6YE8i4OsEmI4tm-3" target="2xcpov6YE8i4OsEmI4tm-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOncRo1CujY6hUR6JEvI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2xcpov6YE8i4OsEmI4tm-3" target="2xcpov6YE8i4OsEmI4tm-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOncRo1CujY6hUR6JEvI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2xcpov6YE8i4OsEmI4tm-3" target="2xcpov6YE8i4OsEmI4tm-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-3" value="2.抽样分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-5" value="1.抽样的基本概念" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOncRo1CujY6hUR6JEvI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xcpov6YE8i4OsEmI4tm-8" target="wOncRo1CujY6hUR6JEvI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOncRo1CujY6hUR6JEvI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xcpov6YE8i4OsEmI4tm-8" target="wOncRo1CujY6hUR6JEvI-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-8" value="2.【样本的统计量】及均值（统计量）的分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xcpov6YE8i4OsEmI4tm-11" target="2xcpov6YE8i4OsEmI4tm-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOncRo1CujY6hUR6JEvI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2xcpov6YE8i4OsEmI4tm-11" target="wOncRo1CujY6hUR6JEvI-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-11" value="4.【正态总体】的【统计量（样本均值、样本方差）】的【分布】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2xcpov6YE8i4OsEmI4tm-12" target="2xcpov6YE8i4OsEmI4tm-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-12" value="3.样本统计量的三大常用分布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-17" value="&lt;div&gt;1. 卡方分布&lt;/div&gt;&lt;div&gt;2. t分布&lt;/div&gt;&lt;div&gt;3. F分布&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xcpov6YE8i4OsEmI4tm-19" value="1.单个正态总体的情形" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOncRo1CujY6hUR6JEvI-4" value="1.统计量和统计量分布的定义" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOncRo1CujY6hUR6JEvI-6" value="2.样本的【均值（统计量）】的分布（中心极限定理）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOncRo1CujY6hUR6JEvI-8" value="2.两个正态总体的情形" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

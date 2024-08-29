@@ -1,0 +1,91 @@
+<mxfile host="Electron" modified="2024-07-03T09:29:28.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="f5eq20XjH37mDQMOcPyD" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="LbLHYrfMs61iux43dW0h">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="bwSkTeIxPndrn2tg5-Jm-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="bwSkTeIxPndrn2tg5-Jm-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="njytcRA9__mMUklmKUCp-1" value="生产理论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-1" target="bwSkTeIxPndrn2tg5-Jm-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-1" target="bwSkTeIxPndrn2tg5-Jm-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-1" value="1.生产函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-3" target="bwSkTeIxPndrn2tg5-Jm-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-3" target="bwSkTeIxPndrn2tg5-Jm-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-3" value="2.生产理论分析中的两个时期" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-5" value="&lt;div&gt;1.概念&lt;/div&gt;&lt;div&gt;2.基本特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-7" target="bwSkTeIxPndrn2tg5-Jm-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-7" value="3.生产函数的类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-8" target="bwSkTeIxPndrn2tg5-Jm-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-8" target="bwSkTeIxPndrn2tg5-Jm-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-8" target="bwSkTeIxPndrn2tg5-Jm-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-8" value="2.（长期生产）多种投入要素的最优组合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-9" target="bwSkTeIxPndrn2tg5-Jm-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-9" target="bwSkTeIxPndrn2tg5-Jm-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bwSkTeIxPndrn2tg5-Jm-9" target="bwSkTeIxPndrn2tg5-Jm-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-9" value="1.短期生产" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-13" value="1.投入要素分类&lt;br&gt;2.固定投入比例生产函数（也被称为里昂惕夫生产函数）&lt;br&gt;3.柯布-道格拉斯生产函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-19" value="1.短期生产函数&lt;br&gt;2.短期生产函数曲线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-21" value="3.边际报酬递减规律" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-22" value="4.厂商利润最大化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-27" value="&lt;div&gt;2.等成本线&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-29" value="3.生产要素的最优组合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwSkTeIxPndrn2tg5-Jm-30" value="1.等产量线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

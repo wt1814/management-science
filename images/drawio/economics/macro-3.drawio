@@ -1,0 +1,61 @@
+<mxfile host="Electron" modified="2024-07-04T06:34:09.421Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="ayfBLEE7VhGc8RB7LB3W" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="LbLHYrfMs61iux43dW0h">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="azygHhRDMfSmXePODn8E-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="azygHhRDMfSmXePODn8E-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="azygHhRDMfSmXePODn8E-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="njytcRA9__mMUklmKUCp-1" target="azygHhRDMfSmXePODn8E-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="njytcRA9__mMUklmKUCp-1" value="总供给与总需求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azygHhRDMfSmXePODn8E-1" target="azygHhRDMfSmXePODn8E-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azygHhRDMfSmXePODn8E-1" target="azygHhRDMfSmXePODn8E-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-1" value="1.总需求曲线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azygHhRDMfSmXePODn8E-3" target="azygHhRDMfSmXePODn8E-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-3" value="2.总供给曲线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="azygHhRDMfSmXePODn8E-4" target="azygHhRDMfSmXePODn8E-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="azygHhRDMfSmXePODn8E-4" target="azygHhRDMfSmXePODn8E-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-4" value="3.总需求-总供给模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-7" value="1.总需求与总需求曲线&lt;br&gt;2.总需求曲线的推导&lt;br&gt;3.总需求曲线斜率" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-9" value="4.宏观经济政策与总需求曲线移动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-15" value="1.总供给与总供给曲线&amp;nbsp;&lt;br&gt;2.AS曲线的推导&lt;br&gt;3.不同性质的总供给曲线&lt;br&gt;4.总供给曲线的斜率" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-23" value="1.总需求与总供给的均衡" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="azygHhRDMfSmXePODn8E-25" value="2.运用总供给-总需求模型分析经济的动态调整" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

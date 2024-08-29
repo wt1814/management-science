@@ -1,0 +1,12 @@
+
+
+.idea/
+.DS_Store
+**/.DS_Store
+
+nohup.out
+*.out
+*.bkp
+*.dtmp
+
+~$**

@@ -1,0 +1,91 @@
+<mxfile host="Electron" modified="2024-04-24T09:09:24.822Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="zmurs9eszL4U1lCj4wY4" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="xlwgrdfxQi6i1h9kqiza">
+    <mxGraphModel dx="954" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-1" target="1CZwzKQ1sdS-KawYpAVv-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-1" target="1CZwzKQ1sdS-KawYpAVv-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-1" value="公司层战略及选择" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-6" target="1CZwzKQ1sdS-KawYpAVv-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-6" target="1CZwzKQ1sdS-KawYpAVv-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-6" target="1CZwzKQ1sdS-KawYpAVv-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-6" target="1CZwzKQ1sdS-KawYpAVv-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-6" value="1.联盟、并购与重组战略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="238" y="-1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVgsVQvXJKTcyyWMw8y6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-7" target="qVgsVQvXJKTcyyWMw8y6-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-7" value="4.重组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVgsVQvXJKTcyyWMw8y6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-8" target="qVgsVQvXJKTcyyWMw8y6-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-8" value="3.并购" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVgsVQvXJKTcyyWMw8y6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-9" target="qVgsVQvXJKTcyyWMw8y6-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-9" value="2.战略联盟" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVgsVQvXJKTcyyWMw8y6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-10" target="qVgsVQvXJKTcyyWMw8y6-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-10" value="1.自我发展" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-14" target="1CZwzKQ1sdS-KawYpAVv-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-14" target="1CZwzKQ1sdS-KawYpAVv-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1CZwzKQ1sdS-KawYpAVv-14" target="1CZwzKQ1sdS-KawYpAVv-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-14" value="2.国际化战略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="238" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-15" value="2.国际化战略的条件与分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-16" value="3.实施国际化战略的途径" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CZwzKQ1sdS-KawYpAVv-17" value="1.国际化战略的动因" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVgsVQvXJKTcyyWMw8y6-1" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.适用情况&lt;/div&gt;&lt;div&gt;3.优势&lt;/div&gt;&lt;div&gt;4.风险&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="642" y="-1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVgsVQvXJKTcyyWMw8y6-3" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.运作形式&lt;/div&gt;&lt;div&gt;3.适用情况&lt;/div&gt;&lt;div&gt;4.优势&lt;/div&gt;&lt;div&gt;5.劣势&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="642" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVgsVQvXJKTcyyWMw8y6-5" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.分类&lt;/div&gt;&lt;div&gt;3.优势&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="642" y="-960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qVgsVQvXJKTcyyWMw8y6-7" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.内容&lt;/div&gt;&lt;div&gt;3.结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="642" y="-880" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

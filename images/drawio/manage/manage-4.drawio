@@ -1,0 +1,112 @@
+<mxfile host="Electron" modified="2024-08-09T09:55:18.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="hjkdJvKnQqgiKjoRwOjk" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="eWwukw0iO3ff9mMrWCRQ">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MTeLtX88OqugB4PnVimx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-1" target="MTeLtX88OqugB4PnVimx-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-1" target="MTeLtX88OqugB4PnVimx-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-1" target="MTeLtX88OqugB4PnVimx-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YgFIL4U77iIsx28NCr-G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MTeLtX88OqugB4PnVimx-1" target="YgFIL4U77iIsx28NCr-G-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-1" value="计划、目标与控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-2" target="MTeLtX88OqugB4PnVimx-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-2" value="2.计划的性质与编制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-4" target="MTeLtX88OqugB4PnVimx-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-4" target="MTeLtX88OqugB4PnVimx-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-4" value="1.目标与目标管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-5" target="MTeLtX88OqugB4PnVimx-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-5" value="1.控制的性质与控制系统的构成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-6" target="MTeLtX88OqugB4PnVimx-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-6" value="2.控制的过程与有效性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-13" value="&lt;div&gt;1.计划的概念、特征及作用&lt;/div&gt;&lt;div&gt;2.计划的类型&lt;/div&gt;&lt;div&gt;3.计划编制的原则&lt;/div&gt;&lt;div&gt;4.计划编制的步骤&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-18" value="1.目标的概念与特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-20" target="MTeLtX88OqugB4PnVimx-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-20" value="2.目标管理(MBO)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-23" value="&lt;div&gt;1. 概念&lt;/div&gt;&lt;div&gt;&amp;nbsp;2. 步骤&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;3. 优点和缺点&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-25" target="MTeLtX88OqugB4PnVimx-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-25" target="MTeLtX88OqugB4PnVimx-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-25" value="4.现代计划方法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-27" value="&lt;div&gt;&lt;div&gt;1.控制的含义、前提及重要性&lt;/div&gt;&lt;div&gt;2.控制的类型&lt;/div&gt;&lt;div&gt;3.控制系统的构成&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="280" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-29" value="1.控制的基本过程&lt;br&gt;2.有效控制的特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-29" target="MTeLtX88OqugB4PnVimx-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MTeLtX88OqugB4PnVimx-34" target="MTeLtX88OqugB4PnVimx-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-34" value="1.滚动计划法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MTeLtX88OqugB4PnVimx-36" target="MTeLtX88OqugB4PnVimx-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-36" value="2.计划评审技术PERT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-38" value="&lt;div&gt;1. 具体内容&lt;/div&gt;&lt;div&gt;2. 具体做法&lt;/div&gt;&lt;div&gt;3. 滚动计划法的适用&lt;/div&gt;&lt;div&gt;4. 滚动计划法的优点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTeLtX88OqugB4PnVimx-40" value="&lt;div&gt;1. 基本原理&lt;/div&gt;&lt;div&gt;2. 网络图的构成&lt;/div&gt;&lt;div&gt;3. PERT的运用步骤&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YgFIL4U77iIsx28NCr-G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YgFIL4U77iIsx28NCr-G-1" target="MTeLtX88OqugB4PnVimx-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YgFIL4U77iIsx28NCr-G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YgFIL4U77iIsx28NCr-G-1" target="MTeLtX88OqugB4PnVimx-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YgFIL4U77iIsx28NCr-G-1" value="3.控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

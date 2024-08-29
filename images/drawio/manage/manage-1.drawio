@@ -1,0 +1,57 @@
+<mxfile host="Electron" modified="2024-04-21T09:56:54.775Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="hjFatluHJQF-mmH5bWIa" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="EptflBMG_qg76Cy4ORVD">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oObLU8E7DE0Y3AWYQl3H-4" target="oObLU8E7DE0Y3AWYQl3H-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oObLU8E7DE0Y3AWYQl3H-4" target="oObLU8E7DE0Y3AWYQl3H-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oObLU8E7DE0Y3AWYQl3H-4" target="oObLU8E7DE0Y3AWYQl3H-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-4" value="管理总论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oObLU8E7DE0Y3AWYQl3H-8" target="oObLU8E7DE0Y3AWYQl3H-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-8" value="1.管理的基本概念" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oObLU8E7DE0Y3AWYQl3H-11" target="oObLU8E7DE0Y3AWYQl3H-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-11" value="2.管理的环境" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-12" value="1.环境的构成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-15" value="1.含义和内涵&lt;br&gt;2.应用范围&lt;br&gt;3.效率和效果、特性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oObLU8E7DE0Y3AWYQl3H-20" target="oObLU8E7DE0Y3AWYQl3H-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-20" value="3.【管理者】的基本概念" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oObLU8E7DE0Y3AWYQl3H-22" value="1.管理者及其分类&lt;br&gt;2.管理者的角色&lt;br&gt;3.管理者的技能要求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WAiQZmmWjZc-ZvqwfMky-1" value="2.环境与管理之间的作用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WAiQZmmWjZc-ZvqwfMky-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oObLU8E7DE0Y3AWYQl3H-11" target="WAiQZmmWjZc-ZvqwfMky-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

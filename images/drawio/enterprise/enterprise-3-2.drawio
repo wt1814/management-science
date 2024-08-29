@@ -1,0 +1,99 @@
+<mxfile host="Electron" modified="2024-03-24T06:07:05.879Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="T-Jf6hPvDGyJd0OXTSvr" version="22.1.11" type="device">
+  <diagram name="第 1 页" id="uXD7KHuHyw0NmRrSIp3C">
+    <mxGraphModel dx="954" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YB15amSemUfS8QgxUduB-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YB15amSemUfS8QgxUduB-4" target="YB15amSemUfS8QgxUduB-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YB15amSemUfS8QgxUduB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YB15amSemUfS8QgxUduB-4" target="YB15amSemUfS8QgxUduB-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YB15amSemUfS8QgxUduB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YB15amSemUfS8QgxUduB-4" target="YB15amSemUfS8QgxUduB-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YB15amSemUfS8QgxUduB-4" value="组织的资源和能力分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YB15amSemUfS8QgxUduB-5" target="6O3iiqv5siRE0Z-U-gD1-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YB15amSemUfS8QgxUduB-5" value="1.组织的【战略与文化】分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YB15amSemUfS8QgxUduB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YB15amSemUfS8QgxUduB-8" target="6O3iiqv5siRE0Z-U-gD1-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YB15amSemUfS8QgxUduB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YB15amSemUfS8QgxUduB-4" target="YB15amSemUfS8QgxUduB-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeIT6uv1baqHIn3SqAgY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YB15amSemUfS8QgxUduB-8" target="6O3iiqv5siRE0Z-U-gD1-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzVc4qjLX0sFDtH8iOIx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YB15amSemUfS8QgxUduB-8" target="6O3iiqv5siRE0Z-U-gD1-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YB15amSemUfS8QgxUduB-8" value="2.组织的资源条件分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YB15amSemUfS8QgxUduB-9" target="6O3iiqv5siRE0Z-U-gD1-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YB15amSemUfS8QgxUduB-9" value="4.组织内部因素评价矩阵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YB15amSemUfS8QgxUduB-11" target="6O3iiqv5siRE0Z-U-gD1-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YB15amSemUfS8QgxUduB-11" target="6O3iiqv5siRE0Z-U-gD1-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YB15amSemUfS8QgxUduB-11" value="3.价值链分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-1" value="&lt;div&gt;1.企业文化的概念&lt;/div&gt;&lt;div&gt;2.企业战略与文化的关系&lt;/div&gt;&lt;div&gt;3.企业文化与战略相适应的关系类型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-6" value="2.企业资源的概念与分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-7" value="3.企业资源强势与弱势分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6O3iiqv5siRE0Z-U-gD1-8" target="6O3iiqv5siRE0Z-U-gD1-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-8" value="1.企业资源观" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-12" value="&lt;div&gt;1.竞争优势&lt;/div&gt;&lt;div&gt;2.核心观点&lt;/div&gt;&lt;div&gt;3.主要内容&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6O3iiqv5siRE0Z-U-gD1-14" target="6O3iiqv5siRE0Z-U-gD1-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-14" value="1.价值链" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6O3iiqv5siRE0Z-U-gD1-16" target="6O3iiqv5siRE0Z-U-gD1-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-16" value="2.价值链分析&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-18" value="&lt;div&gt;1.概念&lt;/div&gt;&lt;div&gt;2.价值活动&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-20" value="&lt;div&gt;1.含义&amp;nbsp;&lt;/div&gt;&lt;div&gt;2.注意事项&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6O3iiqv5siRE0Z-U-gD1-22" value="&lt;div&gt;1.定义&lt;/div&gt;&lt;div&gt;2.步骤&lt;/div&gt;&lt;div&gt;3.结果说明&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
